@@ -1,0 +1,13 @@
+h1{
+  font-family: "Brush Script MT", cursive;
+    color: #ff9900;
+}
+.home{
+    font-size: 50px; 
+    border-style: solid;
+    font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+    background-color: lightblue;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
